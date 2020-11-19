@@ -1,0 +1,490 @@
+1605687425218	geckodriver	INFO	Listening on 127.0.0.1:64536
+1605687428469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofilezK8kd6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605687431463	Marionette	INFO	Listening on port 64544
+1605687431763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1605687449689	Marionette	INFO	Stopped listening on port 64544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605687495360	geckodriver	INFO	Listening on 127.0.0.1:64608
+1605687498391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileMMAEhn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605687500788	Marionette	INFO	Listening on port 64616
+1605687501128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605687516146	Marionette	INFO	Stopped listening on port 64616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605687570894	geckodriver	INFO	Listening on 127.0.0.1:64736
+1605687573915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileo5BREC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605687576256	Marionette	INFO	Listening on port 64744
+1605687576674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605687633274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605687664506	Marionette	INFO	Stopped listening on port 64744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605689193035	geckodriver	INFO	Listening on 127.0.0.1:65034
+1605689196067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofile7BVb2S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605689198562	Marionette	INFO	Listening on port 65042
+1605689198821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605689255368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605689287480	Marionette	INFO	Stopped listening on port 65042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605690392991	geckodriver	INFO	Listening on 127.0.0.1:51536
+1605690396023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofilesjRLdY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605690398390	Marionette	INFO	Listening on port 51544
+1605690398796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605690453406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605690488510	Marionette	INFO	Stopped listening on port 51544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605690587827	geckodriver	INFO	Listening on 127.0.0.1:51719
+1605690590848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileJnvMMo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605690593184	Marionette	INFO	Listening on port 51727
+1605690593601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605690599557	Marionette	INFO	Stopped listening on port 51727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605690642663	geckodriver	INFO	Listening on 127.0.0.1:51830
+1605690645704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofiled2NOwP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605690648055	Marionette	INFO	Listening on port 51838
+1605690648460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605690678335	Marionette	INFO	Stopped listening on port 51838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605691047461	geckodriver	INFO	Listening on 127.0.0.1:52144
+1605691050526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileWJA7cI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605691053024	Marionette	INFO	Listening on port 52152
+1605691053332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605691108989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605691141272	Marionette	INFO	Stopped listening on port 52152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605692409614	geckodriver	INFO	Listening on 127.0.0.1:52475
+1605692412679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileZsDuHJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605692415054	Marionette	INFO	Listening on port 52483
+1605692415431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605692420422	Marionette	INFO	Stopped listening on port 52483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605692839916	geckodriver	INFO	Listening on 127.0.0.1:52923
+1605692842975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofilehUJBYZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605692845440	Marionette	INFO	Listening on port 52931
+1605692845729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605692850919	Marionette	INFO	Stopped listening on port 52931
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605693098560	geckodriver	INFO	Listening on 127.0.0.1:53229
+1605693101633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileudx3kC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605693103986	Marionette	INFO	Listening on port 53237
+1605693104412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605693114374	Marionette	INFO	Stopped listening on port 53237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605749720280	geckodriver	INFO	Listening on 127.0.0.1:56642
+1605749723335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofiledpNlrG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605749726659	Marionette	INFO	Listening on port 56663
+1605749727154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605749739063	Marionette	INFO	Stopped listening on port 56663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605754680767	geckodriver	INFO	Listening on 127.0.0.1:62939
+1605754683803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileL51GNW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605754686272	Marionette	INFO	Listening on port 62947
+1605754686563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605755565478	Marionette	INFO	Stopped listening on port 62947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilewjPA09"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605755110145	Marionette	INFO	Listening on port 63082
+1605755110605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605755238696	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605755265660	Marionette	INFO	Stopped listening on port 63082
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605770665168	geckodriver	INFO	Listening on 127.0.0.1:52211
+1605770668184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofile8idFsh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605770670614	Marionette	INFO	Listening on port 52219
+1605770670978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605770749316	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605770771096	Marionette	INFO	Stopped listening on port 52219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
