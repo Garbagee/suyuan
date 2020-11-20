@@ -2996,3 +2996,10 @@ JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605857674956	Marionette	INFO	Stopped listening on port 60049
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
