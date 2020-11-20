@@ -18,6 +18,8 @@ class SecurityBatchGen():
 	md = ms.driver
 	#溯源实例管理
 	def test_01_add(self):
+		self.md.find_element_by_link_text("防伪码管理").click()
+		time.sleep(1)
 		self.md.find_element_by_link_text("批量生成防伪码").click()
 		time.sleep(1)
 		self.md.find_element_by_css_selector("div.form-group:nth-child(2) > div:nth-child(2) > input:nth-child(1)").clear()
