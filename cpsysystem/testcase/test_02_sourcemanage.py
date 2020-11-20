@@ -24,7 +24,7 @@ class MainFun_01(unittest.TestCase):
 	# 	cls.md.maximize_window()
 	# 	time.sleep(2)
 	#打开溯源实例管理功能
-	def test_01(self):
+	def test_06(self):
 		self.s1 = addSource.AddSource()
 		self.s1.test_01_pre()
 
@@ -32,14 +32,16 @@ class MainFun_01(unittest.TestCase):
 	@data(*ms)
 	@unpack
 	#新增溯源实例
-	def test_02(self,a,b):
+	def test_07(self,a,b):
+		self.md.find_element_by_link_text("新增溯源实例").click()
+		time.sleep(1)
 		self.s2 = addSource.AddSource()
 		self.s2.test_02_add(a,b)
 		x = self.md.find_element_by_id("layui-layer1")
 		self.assertTrue(x,msg="新增失败")
 
 	#溯源实例管理
-	def test_03(self):
+	def test_08(self):
 		self.s3 = sourceManage.SourceManage()
 		self.s3.test_02_search()
 		a = self.md.find_element_by_css_selector(".table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > b:nth-child(2)").text
@@ -54,7 +56,7 @@ class MainFun_01(unittest.TestCase):
 		self.assertEqual(x,y,msg="失败")
 		# print("删除执行成功")
 	#批量溯源操作
-	def test_04(self):
+	def test_09(self):
 		self.s4 = batchSource.BatchSource()
 		self.s4.batch_Logistic()
 		x = self.md.find_element_by_css_selector(".layui-layer-content")
@@ -77,7 +79,7 @@ class MainFun_01(unittest.TestCase):
 		self.assertTrue(x, msg="失败")
 
 	#溯源操作记录
-	def test_05(self):
+	def test_10(self):
 		self.s5 = sourceRecord.SourceRecord()
 		self.s5.test_search()
 		a = self.md.find_element_by_css_selector(

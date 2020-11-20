@@ -66,8 +66,8 @@ class RecordManage():
 		self.md.find_element_by_css_selector(".table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(7) > span:nth-child(2)").click()
 		time.sleep(2)
 		self.md.find_element_by_css_selector(".layui-layer-btn0").click()
-		time.sleep(2)
-		self.md.find_element_by_css_selector(".btn-default").click()
+		time.sleep(1)
+		# self.md.find_element_by_css_selector(".btn-default").click()
 		# tx1 = self.md.find_element_by_css_selector(".table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3)").text
 		# self.assertNotEqual(tx,tx1,msg="删除失败")
 		#批量删除
@@ -80,6 +80,7 @@ class RecordManage():
 		alert = self.md.switch_to.alert
 		alert.accept()
 		time.sleep(1)
-		a = self.md.switch_to_alert.text
+		a = self.md.switch_to.alert.text
+		print(a)
 		self.md.switch_to.alert.accept()
 		return a

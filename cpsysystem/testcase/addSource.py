@@ -19,8 +19,8 @@ class AddSource():
 	def test_01_pre(self):
 		self.md.find_element_by_link_text("溯源实例管理").click()
 		time.sleep(1)
-		self.md.find_element_by_link_text("新增溯源实例").click()
-		time.sleep(1)
+		# self.md.find_element_by_link_text("新增溯源实例").click()
+		# time.sleep(1)
 
 	#溯源实例管理
 	def test_02_add(self,a,b):

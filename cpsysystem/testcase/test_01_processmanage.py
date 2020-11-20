@@ -56,7 +56,7 @@ class MainFun(unittest.TestCase):
 		b = "批量删除成功"
 		self.assertEqual(a,b,msg="失败")
 
-	ms1 = getdata.GetData(r"../data/testdata/data.xlsx", "lcjl").login_data()
+	ms1 = getdata.GetData(r"../data/testdata/data.xlsx","lcjl").login_data()
 	@data(*ms1)
 	@unpack
 	def test_04(self,lgs):
@@ -77,7 +77,7 @@ class MainFun(unittest.TestCase):
 		b = self.md.find_element_by_css_selector(".layui-layer-content")
 		self.assertTrue(b, msg="更新失败")
 		self.x5.test_04_delMsg()
-		c = self.md.find_element_by_id("layui-layer1")
+		c = self.md.find_element_by_css_selector(".layui-layer-content")
 		self.assertTrue(c,msg="删除失败")
 	# @classmethod
 	# def tearDownClass(cls):

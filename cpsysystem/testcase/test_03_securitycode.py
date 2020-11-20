@@ -25,23 +25,23 @@ class MainFun_02(unittest.TestCase):
 	# 	cls.md.maximize_window()
 	# 	time.sleep(3)
 	#批量生成防伪码
-	def test_01(self):
+	def test_11(self):
 		self.s1 = securityBatchGen.SecurityBatchGen()
 		self.s1.test_01_add()
 		xx = self.md.find_element_by_css_selector(".layui-layer-content")
 		self.assertTrue(xx,msg="新增防伪码失败")
 
-	def test_02(self):
+	def test_12(self):
 		self.s2 = securitybatchimp.SecurityImp()
 		self.s2.test_Imp()
 
-	def test_03(self):
+	def test_13(self):
 		self.s3 = securityOne.SecurityOne()
 		self.s3.test_One()
 		xx = self.md.find_element_by_css_selector(".layui-layer-content")
 		self.assertTrue(xx,msg="生成单个防伪码失败")
 
-	def test_04(self):
+	def test_14(self):
 		self.s4 = securityBatchEdit.Security_Edit()
 		self.s4.test_logistic()
 		x1 = self.md.find_element_by_css_selector(".layui-layer-content")
@@ -63,27 +63,27 @@ class MainFun_02(unittest.TestCase):
 		x5 = self.md.find_element_by_css_selector(".layui-layer-content")
 		self.assertTrue(x5, msg="按日期修改失败")
 
-	def test_05(self):
-		self.s5 = securityDelete.Security_Del()
-		self.s5.test_del_Pc()
-		x2 = self.md.find_element_by_css_selector(".layui-layer-content")
-		self.assertTrue(x2, msg="按批次删除失败")
-
-		self.s5.test_del_Product()
-		x2 = self.md.find_element_by_css_selector(".layui-layer-content")
-		self.assertTrue(x2, msg="按产品删除失败")
-
-		self.s5.test_del_Date()
-		x2 = self.md.find_element_by_css_selector(".layui-layer-content")
-		self.assertTrue(x2, msg="按日期删除失败")
-
-		self.s5.test_del_Num()
-		x2 = self.md.find_element_by_css_selector(".layui-layer-content")
-		self.assertTrue(x2, msg="按修改次数删除失败")
-
-		self.s5.test_del_All()
-		x2 = self.md.find_element_by_css_selector(".layui-layer-content")
-		self.assertTrue(x2, msg="全部删除失败")
+	# def test_15(self):
+	# 	self.s5 = securityDelete.Security_Del()
+	# 	self.s5.test_del_Pc()
+	# 	x2 = self.md.find_element_by_css_selector(".layui-layer-content")
+	# 	self.assertTrue(x2, msg="按批次删除失败")
+	#
+	# 	self.s5.test_del_Product()
+	# 	x2 = self.md.find_element_by_css_selector(".layui-layer-content")
+	# 	self.assertTrue(x2, msg="按产品删除失败")
+	#
+	# 	self.s5.test_del_Date()
+	# 	x2 = self.md.find_element_by_css_selector(".layui-layer-content")
+	# 	self.assertTrue(x2, msg="按日期删除失败")
+	#
+	# 	self.s5.test_del_Num()
+	# 	x2 = self.md.find_element_by_css_selector(".layui-layer-content")
+	# 	self.assertTrue(x2, msg="按修改次数删除失败")
+	#
+	# 	self.s5.test_del_All()
+	# 	x2 = self.md.find_element_by_css_selector(".layui-layer-content")
+	# 	self.assertTrue(x2, msg="全部删除失败")
 
 	@classmethod
 	def tearDownClass(cls):

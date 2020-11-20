@@ -39,20 +39,20 @@ class MsgManage():
 		Select(self.md.find_element_by_id("s001")).select_by_visible_text("发货/出库")
 		time.sleep(1)
 		self.md.find_element_by_css_selector("div.col-sm-4:nth-child(2) > input:nth-child(1)").clear()
-		self.md.find_element_by_css_selector("div.col-sm-4:nth-child(2) > input:nth-child(1)").send_keys("48888")
+		self.md.find_element_by_css_selector("div.col-sm-4:nth-child(2) > input:nth-child(1)").send_keys("61695154")
 		time.sleep(1)
 		self.md.find_element_by_css_selector("div.form-group:nth-child(6) > div:nth-child(2) > input:nth-child(1)").clear()
 		self.md.find_element_by_css_selector("div.form-group:nth-child(6) > div:nth-child(2) > input:nth-child(1)").send_keys("666")
 		Select(self.md.find_element_by_name("zt")).select_by_value("no")
 		time.sleep(1)
 		self.md.find_element_by_css_selector(".btn").click()
-		time.sleep(2)
+		time.sleep(0.5)
 
 	def test_04_delMsg(self):
 		#刷新
 		time.sleep(1)
-		self.md.find_element_by_css_selector(".btn-default").click()
-		time.sleep(1)
+		# self.md.find_element_by_css_selector(".btn-default").click()
+		# time.sleep(1)
 		#删除一条记录
 		# tx = self.md.find_element_by_css_selector(".table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3)").text
 		self.md.find_element_by_css_selector(".table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(9) > span:nth-child(2)").click()
@@ -68,6 +68,5 @@ class MsgManage():
 		time.sleep(1)
 		alert = self.md.switch_to.alert
 		alert.accept()
-		# time.sleep(1)
-		# self.md.switch_to.alert.accept()
+		time.sleep(0.2)
 
