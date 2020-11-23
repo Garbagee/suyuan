@@ -19,11 +19,11 @@ from testcase import securityDelete
 class MainFun_02(unittest.TestCase):
 	mm = loginTo.LoginTo()
 	md = mm.driver
-	# @classmethod
-	# def setUpClass(cls):
-	# 	cls.mm.login()
-	# 	cls.md.maximize_window()
-	# 	time.sleep(3)
+	@classmethod
+	def setUpClass(cls):
+		cls.mm.login()
+		cls.md.maximize_window()
+		time.sleep(3)
 	#批量生成防伪码
 	def test_11(self):
 		self.s1 = securityBatchGen.SecurityBatchGen()
@@ -89,6 +89,6 @@ class MainFun_02(unittest.TestCase):
 	def tearDownClass(cls):
 		cls.md.quit()
 
-# if __name__ == '__main__':
-#
-#     unittest.main()
+if __name__ == '__main__':
+
+    unittest.main()

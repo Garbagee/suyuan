@@ -28,7 +28,7 @@ class SecurityOne():
 		time.sleep(1)
 		s1 = self.md.find_element_by_id("s1")
 		self.md.execute_script("document.getElementById('s1').style.display='block';")
-		Select(s1).select_by_visible_text("西安")
+		Select(s1).select_by_visible_text("飞来峰")
 		time.sleep(1)
 		s2 = self.md.find_element_by_id("s2")
 		self.md.execute_script("document.getElementById('s2').style.display='block';")

@@ -6,12 +6,14 @@
 作者:李锦龙
 版本:version:1.0
 '''
+import os
 import time
 import pyautogui
+from idna import unicode
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
 from public.common import loginTo
-
+import sys
 class SecurityImp():
 	ms = loginTo.LoginTo()
 	md = ms.driver
@@ -24,7 +26,11 @@ class SecurityImp():
 		time.sleep(1)
 		pyautogui.click(x=553, y=612, clicks=1, interval=0.0, button='left', duration=0.0, tween=pyautogui.linear)
 		time.sleep(2)
-		pyautogui.write(r"C:\Users\Desperate\Desktop\code.txt")
+
+		path = os.path.abspath(r"../data/testdata/code.txt")
+		# path1 = unicode(path, 'utf8')
+		# print(path1)
+		pyautogui.write(path)
 		time.sleep(2)
 		# pyautogui.click(x=801, y=510, clicks=1, interval=0.0, button='left', duration=0.0, tween=pyautogui.linear)
 		pyautogui.press('enter', presses=1)

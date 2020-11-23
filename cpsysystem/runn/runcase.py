@@ -1,7 +1,7 @@
 
 import sys
 import os
-curPath = os.path.abspath(os.path.dirname(r'D:\pycharm\产品溯源系统测试\runn\runcase.py'))
+curPath = os.path.abspath(os.path.dirname(r'./runcase.py'))
 rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
 import unittest
@@ -26,7 +26,6 @@ def run():
 		)
 		runner.run(suite)
 	time.sleep(1)
-
 
 
 if __name__ == '__main__':

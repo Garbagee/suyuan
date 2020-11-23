@@ -35,7 +35,7 @@ class SecurityBatchGen():
 		self.md.find_element_by_css_selector("div.form-group:nth-child(6) > div:nth-child(2) > input:nth-child(1)").send_keys("10")
 		dd = self.md.find_element_by_id("s1")
 		self.md.execute_script("document.getElementById('s1').style.display='block';")
-		Select(dd).select_by_visible_text("ASD")
+		Select(dd).select_by_visible_text("飞来峰")
 		time.sleep(1)
 		d1 = self.md.find_element_by_id("s2")
 		self.md.execute_script("document.getElementById('s2').style.display='block';")

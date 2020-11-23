@@ -11,7 +11,7 @@ from public.common import loginTo
 # @ddt
 class ProcessRecord():
 
-	# ms = getdata.GetData("D:\\pycharm\\产品溯源系统测试\\data\\testdata\\data.xlsx","addrecord").login_data()
+
 	# @data(*ms)
 	# @unpack
 	mf = loginTo.LoginTo()

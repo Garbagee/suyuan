@@ -488,3 +488,99 @@ JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1606130441508	geckodriver	INFO	Listening on 127.0.0.1:61790
+1606130444547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DESPER~1\\AppData\\Local\\Temp\\rust_mozprofileblNynH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606130447193	Marionette	INFO	Listening on port 61798
+1606130447302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1606130505378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1606130615545	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1606130646611	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1606130818463	Marionette	INFO	Stopped listening on port 61798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
