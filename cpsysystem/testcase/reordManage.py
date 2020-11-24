@@ -80,7 +80,8 @@ class RecordManage():
 		alert = self.md.switch_to.alert
 		alert.accept()
 		time.sleep(1)
-		a = self.md.switch_to.alert.text
+		b = self.md.switch_to.alert
+		a = b.text
 		print(a)
 		self.md.switch_to.alert.accept()
 		return a

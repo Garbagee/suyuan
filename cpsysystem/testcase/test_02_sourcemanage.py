@@ -16,8 +16,8 @@ from testcase import batchSource
 from testcase import sourceRecord
 @ddt
 class MainFun_01(unittest.TestCase):
-	mm = loginTo.LoginTo()
-	md = mm.driver
+	# mm = loginTo.LoginTo()
+	# md = mm.driver
 	# @classmethod
 	# def setUpClass(cls):
 	# 	cls.mm.login()

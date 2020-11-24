@@ -17,13 +17,13 @@ from testcase import securityBatchEdit
 from testcase import securityDelete
 @ddt
 class MainFun_02(unittest.TestCase):
-	mm = loginTo.LoginTo()
-	md = mm.driver
-	@classmethod
-	def setUpClass(cls):
-		cls.mm.login()
-		cls.md.maximize_window()
-		time.sleep(3)
+	# mm = loginTo.LoginTo()
+	# md = mm.driver
+	# @classmethod
+	# def setUpClass(cls):
+	# 	cls.mm.login()
+	# 	cls.md.maximize_window()
+	# 	time.sleep(3)
 	#批量生成防伪码
 	def test_11(self):
 		self.s1 = securityBatchGen.SecurityBatchGen()
